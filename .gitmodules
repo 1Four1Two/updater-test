@@ -1,0 +1,12 @@
+[submodule "submodules/arco-storage"]
+	path = submodules/arco-storage
+	url = https://bitbucket.org/spgsoftware/arco-storage.git
+[submodule "submodules/arco-install"]
+	path = submodules/arco-install
+	url = https://bitbucket.org/spgsoftware/arco-install.git
+[submodule "submodules/arco-kiosk"]
+	path = submodules/arco-kiosk
+	url = https://bitbucket.org/spgsoftware/arco-kiosk.git
+[submodule "submodules/arco-api-gateway"]
+	path = submodules/arco-api-gateway
+	url = https://bitbucket.org/spgsoftware/arco-api-gateway.git
